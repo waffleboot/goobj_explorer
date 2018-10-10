@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/golang/go/tree/master/src/cmd/internal/goobj"
+	"cmd/internal/goobj"
 	"github.com/kr/pretty"
 	"os"
 )
